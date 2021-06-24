@@ -2,3 +2,4 @@ git init --> to initialize the git repo.
 git status --> this will tell you the status of all the folders and files.
 git add --> to add file and folder into repo.
 git commit --> mention the commit you want to make.
+changes
